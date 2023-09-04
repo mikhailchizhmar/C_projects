@@ -1,0 +1,12 @@
+3DViewer manual
+
+Use buttons "..." and "Open" to open .obj files.
+Use sliders and spinboxes to translate and rotate models.
+Use slider to scale models.
+You can choose type of projection (parallel or central), type of line (solid or stipple),
+type of point (none, round or square)
+Also you can choose size of line and point, their colors and color of background.
+Button "Save image as..." save image as .bmp or .jpeg format.
+With a round slider you can change mouse sensitivity.
+You can record screencasts.
+At the bottom amount of vertexes and edges shown.
